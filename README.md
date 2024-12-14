@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java and its solution. The `BuggySum.java` file contains the erroneous code, causing an `ArrayIndexOutOfBoundsException`. The `CorrectedSum.java` file provides the corrected version.
